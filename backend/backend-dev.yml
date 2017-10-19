@@ -5,3 +5,10 @@ cf:
   password: password
   organization: EMC
   space: ngisspace
+postgresql:
+  databaseHost: 10.62.51.16
+  databasePort: 5432
+  databaseName: id_a9f2672c_fe3a_4bb6_8287_70c6e308ac54
+  username: id_a9f2672c_fe3a_4bb6_8287_70c6e308ac54
+  password: q8b6qtn755pr6ksg9m55f4l41m
+  
