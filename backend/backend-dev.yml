@@ -1,1 +1,7 @@
 profile: dev
+cf:
+  apiHost: ccng.bjngiscf-dev.dctmlabs.com
+  username: ngis@emc.com
+  password: password
+  organization: EMC
+  space: ngisspace
